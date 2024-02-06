@@ -48,3 +48,4 @@ export default class AppClass extends Component{
     );
   }
 }
+export default App
